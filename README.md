@@ -1,7 +1,7 @@
 - Hi, I’m @JosriqueJotaro (aka Dani Agramonte)
 - I’m interested in nonlinear dyanmics, vibrations, hyseretic systems, finite element analysis, numerical methods
 - How to reach me:
-  email: daniel.agramonte@uga.edu or dn.agramonte@gmail.com
+  email: dagramonte3@gatech.edu (work) or dn.agramonte@gmail.com (personal)
   phone: 404-889-7005
 
 <!---
